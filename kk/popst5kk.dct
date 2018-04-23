@@ -1,0 +1,8 @@
+dictionary using popst5.raw { 
+  state
+  area
+  pop_total
+  pop_male
+  pop_female
+  pop_dens
+ }

@@ -1,0 +1,8 @@
+dictionary using popst6.raw { 
+  _column(1)  str22 state %22s "State (name)"   
+  _column(23) area         %5f "Area in km^2"   
+  _column(28) pop_total    %8f "Total Population"   
+  _column(36) pop_male     %7f "Male Population"    
+  _column(43) pop_female   %7f "Female Population"  
+  _column(50) pop_dens     %4f "Population Density" 
+}
